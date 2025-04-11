@@ -6,3 +6,6 @@
 * Normally, webpages don't have really a hot path, only many smalls functions, ie. React
 * Using existing libraries on the browser
 * Running a Wasm runtime as a sandbox for plugins/addons.
+  * Plugins can be written in any language and be restricted to specific services/APIs
+* Port existing applications to the web
+* Faster than JS on resource intensive tasks
