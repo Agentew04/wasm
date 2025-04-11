@@ -9,3 +9,6 @@
   * Plugins can be written in any language and be restricted to specific services/APIs
 * Port existing applications to the web
 * Faster than JS on resource intensive tasks
+* With WASI (WebAssembly System Interface), we can run wasm code directly on the computer, without the need of a browser
+* Wasmer has WAPM, a complete package manager for wasm programs
+* wasm and wasi use is encouraged by the Bytecode Alliance
